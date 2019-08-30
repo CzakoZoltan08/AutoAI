@@ -1,0 +1,2062 @@
+--- START EPOCH 0 ---
+* Parameter=C Value=2.1008964782013844 
+** Parameter=tol Value=1.6468827503416628 
+** Parameter=intercept_scaling Value=0.5562402606784332 
+** Parameter=solver Value=liblinear 
+** Particle 0 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.39520958083832336 ** Parameter=C Value=1.2950315395595298 
+** Parameter=tol Value=1.3076802318092031 
+** Parameter=intercept_scaling Value=0.28060433239121885 
+** Parameter=solver Value=sag 
+** Particle 1 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.4042553191489362 ** Parameter=C Value=0.45952727670754984 
+** Parameter=tol Value=0.7929558328050564 
+** Parameter=intercept_scaling Value=0.5707797195178731 
+** Parameter=solver Value=lbfgs 
+** Particle 2 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.099516994707268 
+** Parameter=tol Value=1.7528378321137645 
+** Parameter=intercept_scaling Value=0.9160485883806639 
+** Parameter=solver Value=sag 
+** Particle 3 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.3958333333333333 ** Parameter=C Value=2.4982300291172987 
+** Parameter=tol Value=0.9129693807438283 
+** Parameter=intercept_scaling Value=0.4492853211755846 
+** Parameter=solver Value=liblinear 
+** Particle 4 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.43373493975903615 ** Parameter=C Value=1.30386183046214 
+** Parameter=tol Value=0.17204648301480702 
+** Parameter=intercept_scaling Value=0.6026909242931197 
+** Parameter=solver Value=liblinear 
+** Particle 5 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7391304347826088 ** Parameter=C Value=2.8471065097887176 
+** Parameter=tol Value=1.5300964285926424 
+** Parameter=intercept_scaling Value=0.8887267732912096 
+** Parameter=solver Value=sag 
+** Particle 6 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5116279069767442 ** Parameter=C Value=1.2168961465184251 
+** Parameter=tol Value=0.5608712156183284 
+** Parameter=intercept_scaling Value=0.46907467280759485 
+** Parameter=solver Value=sag 
+** Particle 7 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.4277456647398844 ** Parameter=C Value=1.2236914596094588 
+** Parameter=tol Value=1.7150128042200712 
+** Parameter=intercept_scaling Value=0.5154119529066495 
+** Parameter=solver Value=liblinear 
+** Particle 8 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5565217391304348 ** Parameter=C Value=0.6962381689278055 
+** Parameter=tol Value=0.1005931317882708 
+** Parameter=intercept_scaling Value=0.7616175173959701 
+** Parameter=solver Value=sag 
+** Particle 9 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5042016806722688 ** Parameter=C Value=0.34764475015619856 
+** Parameter=tol Value=0.4347408872873575 
+** Parameter=intercept_scaling Value=0.4981481564158247 
+** Parameter=solver Value=saga 
+** Particle 10 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.441717791411043 ** Parameter=C Value=1.566652734803035 
+** Parameter=tol Value=0.7238941249627925 
+** Parameter=intercept_scaling Value=0.6571416224615156 
+** Parameter=solver Value=liblinear 
+** Particle 11 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5490196078431372 ** Parameter=C Value=2.8084001826512988 
+** Parameter=tol Value=1.2875388465985351 
+** Parameter=intercept_scaling Value=0.3778675675314957 
+** Parameter=solver Value=sag 
+** Particle 12 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.4578313253012048 ** Parameter=C Value=2.293701387714297 
+** Parameter=tol Value=0.13272691589923485 
+** Parameter=intercept_scaling Value=0.8810155388234934 
+** Parameter=solver Value=lbfgs 
+** Particle 13 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.8595958862294872 
+** Parameter=tol Value=1.1903405917796657 
+** Parameter=intercept_scaling Value=0.22377142446903311 
+** Parameter=solver Value=newton-cg 
+** Particle 14 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=0.6629487412915113 
+** Parameter=tol Value=1.455318871024195 
+** Parameter=intercept_scaling Value=0.38200126711673676 
+** Parameter=solver Value=lbfgs 
+** Particle 15 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.342641545333604 
+** Parameter=tol Value=0.005077829830993216 
+** Parameter=intercept_scaling Value=0.878301179319126 
+** Parameter=solver Value=newton-cg 
+** Particle 16 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.923781382244564 
+** Parameter=tol Value=1.348009573035098 
+** Parameter=intercept_scaling Value=0.022719966666497234 
+** Parameter=solver Value=lbfgs 
+** Particle 17 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=0.7643087617744568 
+** Parameter=tol Value=0.8461659324544086 
+** Parameter=intercept_scaling Value=0.9530417311394055 
+** Parameter=solver Value=sag 
+** Particle 18 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.45161290322580644 ** Parameter=C Value=2.760100204586187 
+** Parameter=tol Value=1.2063113833460768 
+** Parameter=intercept_scaling Value=0.09520331528383238 
+** Parameter=solver Value=saga 
+** Particle 19 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5233644859813084 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=8 
+** Parameter=leaf_size Value=20 
+** Parameter=algorithm Value=brute 
+** Particle 20 Algorithm Type KNN: personal best metric=0.6329113924050632 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=51 
+** Parameter=leaf_size Value=68 
+** Parameter=algorithm Value=auto 
+** Particle 21 Algorithm Type KNN: personal best metric=0.625 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=64 
+** Parameter=leaf_size Value=74 
+** Parameter=algorithm Value=ball_tree 
+** Particle 22 Algorithm Type KNN: personal best metric=0.5974025974025974 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=77 
+** Parameter=leaf_size Value=65 
+** Parameter=algorithm Value=brute 
+** Particle 23 Algorithm Type KNN: personal best metric=0.5569620253164557 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=8 
+** Parameter=leaf_size Value=91 
+** Parameter=algorithm Value=ball_tree 
+** Particle 24 Algorithm Type KNN: personal best metric=0.6097560975609756 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=61 
+** Parameter=leaf_size Value=58 
+** Parameter=algorithm Value=auto 
+** Particle 25 Algorithm Type KNN: personal best metric=0.6075949367088608 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=52 
+** Parameter=leaf_size Value=77 
+** Parameter=algorithm Value=kd_tree 
+** Particle 26 Algorithm Type KNN: personal best metric=0.6233766233766234 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=25 
+** Parameter=leaf_size Value=25 
+** Parameter=algorithm Value=brute 
+** Particle 27 Algorithm Type KNN: personal best metric=0.6506024096385543 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=92 
+** Parameter=leaf_size Value=58 
+** Parameter=algorithm Value=kd_tree 
+** Particle 28 Algorithm Type KNN: personal best metric=0.5897435897435896 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=78 
+** Parameter=leaf_size Value=61 
+** Parameter=algorithm Value=auto 
+** Particle 29 Algorithm Type KNN: personal best metric=0.5897435897435896 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=77 
+** Parameter=leaf_size Value=38 
+** Parameter=algorithm Value=auto 
+** Particle 30 Algorithm Type KNN: personal best metric=0.5569620253164557 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=17 
+** Parameter=leaf_size Value=49 
+** Parameter=algorithm Value=brute 
+** Particle 31 Algorithm Type KNN: personal best metric=0.6590909090909091 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=35 
+** Parameter=leaf_size Value=23 
+** Parameter=algorithm Value=kd_tree 
+** Particle 32 Algorithm Type KNN: personal best metric=0.6265060240963854 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=44 
+** Parameter=leaf_size Value=18 
+** Parameter=algorithm Value=auto 
+** Particle 33 Algorithm Type KNN: personal best metric=0.6419753086419753 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=71 
+** Parameter=leaf_size Value=71 
+** Parameter=algorithm Value=kd_tree 
+** Particle 34 Algorithm Type KNN: personal best metric=0.6097560975609756 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=61 
+** Parameter=leaf_size Value=74 
+** Parameter=algorithm Value=kd_tree 
+** Particle 35 Algorithm Type KNN: personal best metric=0.6 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=76 
+** Parameter=leaf_size Value=89 
+** Parameter=algorithm Value=ball_tree 
+** Particle 36 Algorithm Type KNN: personal best metric=0.5500000000000002 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=21 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 37 Algorithm Type KNN: personal best metric=0.6436781609195403 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=25 
+** Parameter=leaf_size Value=73 
+** Parameter=algorithm Value=kd_tree 
+** Particle 38 Algorithm Type KNN: personal best metric=0.6265060240963854 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=17 
+** Parameter=leaf_size Value=41 
+** Parameter=algorithm Value=ball_tree 
+** Particle 39 Algorithm Type KNN: personal best metric=0.6352941176470589 ** Parameter=max_depth Value=58 
+** Parameter=min_samples_split Value=44 
+** Parameter=n_estimators Value=92 
+** Parameter=criterion Value=entropy 
+** Particle 40 Algorithm Type RANDOM FOREST: personal best metric=0.7391304347826088 ** Parameter=max_depth Value=40 
+** Parameter=min_samples_split Value=73 
+** Parameter=n_estimators Value=164 
+** Parameter=criterion Value=gini 
+** Particle 41 Algorithm Type RANDOM FOREST: personal best metric=0.6875000000000001 ** Parameter=max_depth Value=81 
+** Parameter=min_samples_split Value=50 
+** Parameter=n_estimators Value=299 
+** Parameter=criterion Value=entropy 
+** Particle 42 Algorithm Type RANDOM FOREST: personal best metric=0.7021276595744681 ** Parameter=max_depth Value=19 
+** Parameter=min_samples_split Value=28 
+** Parameter=n_estimators Value=191 
+** Parameter=criterion Value=entropy 
+** Particle 43 Algorithm Type RANDOM FOREST: personal best metric=0.7272727272727272 ** Parameter=max_depth Value=89 
+** Parameter=min_samples_split Value=26 
+** Parameter=n_estimators Value=54 
+** Parameter=criterion Value=gini 
+** Particle 44 Algorithm Type RANDOM FOREST: personal best metric=0.7045454545454546 ** Parameter=max_depth Value=89 
+** Parameter=min_samples_split Value=85 
+** Parameter=n_estimators Value=22 
+** Parameter=criterion Value=gini 
+** Particle 45 Algorithm Type RANDOM FOREST: personal best metric=0.6521739130434783 ** Parameter=max_depth Value=69 
+** Parameter=min_samples_split Value=13 
+** Parameter=n_estimators Value=239 
+** Parameter=criterion Value=entropy 
+** Particle 46 Algorithm Type RANDOM FOREST: personal best metric=0.7228915662650601 ** Parameter=max_depth Value=35 
+** Parameter=min_samples_split Value=69 
+** Parameter=n_estimators Value=26 
+** Parameter=criterion Value=entropy 
+** Particle 47 Algorithm Type RANDOM FOREST: personal best metric=0.6451612903225806 ** Parameter=max_depth Value=45 
+** Parameter=min_samples_split Value=40 
+** Parameter=n_estimators Value=127 
+** Parameter=criterion Value=entropy 
+** Particle 48 Algorithm Type RANDOM FOREST: personal best metric=0.6966292134831461 ** Parameter=max_depth Value=14 
+** Parameter=min_samples_split Value=76 
+** Parameter=n_estimators Value=10 
+** Parameter=criterion Value=gini 
+** Particle 49 Algorithm Type RANDOM FOREST: personal best metric=0.6451612903225806 ** Parameter=max_depth Value=68 
+** Parameter=min_samples_split Value=38 
+** Parameter=n_estimators Value=217 
+** Parameter=criterion Value=entropy 
+** Particle 50 Algorithm Type RANDOM FOREST: personal best metric=0.6808510638297872 ** Parameter=max_depth Value=30 
+** Parameter=min_samples_split Value=54 
+** Parameter=n_estimators Value=273 
+** Parameter=criterion Value=gini 
+** Particle 51 Algorithm Type RANDOM FOREST: personal best metric=0.7216494845360825 ** Parameter=max_depth Value=58 
+** Parameter=min_samples_split Value=16 
+** Parameter=n_estimators Value=11 
+** Parameter=criterion Value=gini 
+** Particle 52 Algorithm Type RANDOM FOREST: personal best metric=0.6813186813186812 ** Parameter=max_depth Value=78 
+** Parameter=min_samples_split Value=48 
+** Parameter=n_estimators Value=196 
+** Parameter=criterion Value=entropy 
+** Particle 53 Algorithm Type RANDOM FOREST: personal best metric=0.6666666666666666 ** Parameter=max_depth Value=67 
+** Parameter=min_samples_split Value=72 
+** Parameter=n_estimators Value=123 
+** Parameter=criterion Value=entropy 
+** Particle 54 Algorithm Type RANDOM FOREST: personal best metric=0.6595744680851064 ** Parameter=max_depth Value=62 
+** Parameter=min_samples_split Value=29 
+** Parameter=n_estimators Value=231 
+** Parameter=criterion Value=entropy 
+** Particle 55 Algorithm Type RANDOM FOREST: personal best metric=0.7191011235955056 ** Parameter=max_depth Value=26 
+** Parameter=min_samples_split Value=77 
+** Parameter=n_estimators Value=299 
+** Parameter=criterion Value=gini 
+** Particle 56 Algorithm Type RANDOM FOREST: personal best metric=0.7216494845360825 ** Parameter=max_depth Value=22 
+** Parameter=min_samples_split Value=28 
+** Parameter=n_estimators Value=248 
+** Parameter=criterion Value=gini 
+** Particle 57 Algorithm Type RANDOM FOREST: personal best metric=0.7333333333333333 ** Parameter=max_depth Value=39 
+** Parameter=min_samples_split Value=17 
+** Parameter=n_estimators Value=286 
+** Parameter=criterion Value=entropy 
+** Particle 58 Algorithm Type RANDOM FOREST: personal best metric=0.7209302325581395 ** Parameter=max_depth Value=38 
+** Parameter=min_samples_split Value=20 
+** Parameter=n_estimators Value=288 
+** Parameter=criterion Value=gini 
+** Particle 59 Algorithm Type RANDOM FOREST: personal best metric=0.7272727272727272 ** Parameter=min_impurity_decrease Value=19.510757046712854 
+** Parameter=min_weight_fraction_leaf Value=0.05256349244959868 
+** Parameter=min_samples_split Value=25 
+** Parameter=min_samples_leaf Value=140 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 60 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=18.745184243965063 
+** Parameter=min_weight_fraction_leaf Value=0.33386152061686897 
+** Parameter=min_samples_split Value=18 
+** Parameter=min_samples_leaf Value=188 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 61 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.907288546707486 
+** Parameter=min_weight_fraction_leaf Value=0.034199358417917936 
+** Parameter=min_samples_split Value=151 
+** Parameter=min_samples_leaf Value=184 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 62 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=46.47973213548506 
+** Parameter=min_weight_fraction_leaf Value=0.203497930488989 
+** Parameter=min_samples_split Value=153 
+** Parameter=min_samples_leaf Value=109 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 63 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.8896142375774732 
+** Parameter=min_weight_fraction_leaf Value=0.31199822739525646 
+** Parameter=min_samples_split Value=70 
+** Parameter=min_samples_leaf Value=121 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 64 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=19.772017749367144 
+** Parameter=min_weight_fraction_leaf Value=0.049690329868927574 
+** Parameter=min_samples_split Value=166 
+** Parameter=min_samples_leaf Value=108 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 65 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=39.81553801737862 
+** Parameter=min_weight_fraction_leaf Value=0.078536077629132 
+** Parameter=min_samples_split Value=62 
+** Parameter=min_samples_leaf Value=23 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 66 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=11.171912628837626 
+** Parameter=min_weight_fraction_leaf Value=0.43512736720129136 
+** Parameter=min_samples_split Value=56 
+** Parameter=min_samples_leaf Value=120 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 67 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=29.10960114786491 
+** Parameter=min_weight_fraction_leaf Value=0.4606765532003017 
+** Parameter=min_samples_split Value=28 
+** Parameter=min_samples_leaf Value=126 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 68 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=26.972204546896734 
+** Parameter=min_weight_fraction_leaf Value=0.0754863728761842 
+** Parameter=min_samples_split Value=137 
+** Parameter=min_samples_leaf Value=60 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 69 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=16.07442277797128 
+** Parameter=min_weight_fraction_leaf Value=0.3818445321541818 
+** Parameter=min_samples_split Value=198 
+** Parameter=min_samples_leaf Value=92 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 70 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.320665483361866 
+** Parameter=min_weight_fraction_leaf Value=0.09464521558610672 
+** Parameter=min_samples_split Value=70 
+** Parameter=min_samples_leaf Value=116 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 71 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.232544926980026 
+** Parameter=min_weight_fraction_leaf Value=0.027845826519368344 
+** Parameter=min_samples_split Value=118 
+** Parameter=min_samples_leaf Value=150 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 72 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=39.93172072800206 
+** Parameter=min_weight_fraction_leaf Value=0.27994583776488663 
+** Parameter=min_samples_split Value=197 
+** Parameter=min_samples_leaf Value=23 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 73 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=28.920011846250933 
+** Parameter=min_weight_fraction_leaf Value=0.15140450564679936 
+** Parameter=min_samples_split Value=184 
+** Parameter=min_samples_leaf Value=194 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 74 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=15.913691684093255 
+** Parameter=min_weight_fraction_leaf Value=0.12103552475788948 
+** Parameter=min_samples_split Value=139 
+** Parameter=min_samples_leaf Value=57 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 75 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=39.71914213486327 
+** Parameter=min_weight_fraction_leaf Value=0.40790451631032304 
+** Parameter=min_samples_split Value=123 
+** Parameter=min_samples_leaf Value=83 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 76 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=9.868926142950128 
+** Parameter=min_weight_fraction_leaf Value=0.08324160981074119 
+** Parameter=min_samples_split Value=17 
+** Parameter=min_samples_leaf Value=24 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 77 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=10.464122524698062 
+** Parameter=min_weight_fraction_leaf Value=0.37010780502417423 
+** Parameter=min_samples_split Value=49 
+** Parameter=min_samples_leaf Value=168 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 78 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=9.572287872144571 
+** Parameter=min_weight_fraction_leaf Value=0.27291973386927026 
+** Parameter=min_samples_split Value=104 
+** Parameter=min_samples_leaf Value=6 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 79 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=37.70283750326445 
+** Parameter=min_weight_fraction_leaf Value=0.1779913939125899 
+** Parameter=min_samples_split Value=150 
+** Parameter=min_samples_leaf Value=140 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 80 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=40.32595725057674 
+** Parameter=min_weight_fraction_leaf Value=0.27992451679140373 
+** Parameter=min_samples_split Value=23 
+** Parameter=min_samples_leaf Value=159 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 81 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=14.463574463317252 
+** Parameter=min_weight_fraction_leaf Value=0.4995541707416131 
+** Parameter=min_samples_split Value=158 
+** Parameter=min_samples_leaf Value=187 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 82 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=28.339998524119125 
+** Parameter=min_weight_fraction_leaf Value=0.3806035412372336 
+** Parameter=min_samples_split Value=158 
+** Parameter=min_samples_leaf Value=108 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 83 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=40.27150691724723 
+** Parameter=min_weight_fraction_leaf Value=0.2824060693951298 
+** Parameter=min_samples_split Value=59 
+** Parameter=min_samples_leaf Value=27 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 84 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=18.87926280076409 
+** Parameter=min_weight_fraction_leaf Value=0.1871930579405091 
+** Parameter=min_samples_split Value=179 
+** Parameter=min_samples_leaf Value=175 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 85 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=44.00244406647799 
+** Parameter=min_weight_fraction_leaf Value=0.19003202628628107 
+** Parameter=min_samples_split Value=67 
+** Parameter=min_samples_leaf Value=15 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 86 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=15.312577013751573 
+** Parameter=min_weight_fraction_leaf Value=0.08250280728676551 
+** Parameter=min_samples_split Value=58 
+** Parameter=min_samples_leaf Value=26 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 87 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=42.48599154596249 
+** Parameter=min_weight_fraction_leaf Value=0.4555411421832833 
+** Parameter=min_samples_split Value=84 
+** Parameter=min_samples_leaf Value=53 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 88 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=34.61252727704749 
+** Parameter=min_weight_fraction_leaf Value=0.10993455484487408 
+** Parameter=min_samples_split Value=150 
+** Parameter=min_samples_leaf Value=85 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 89 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=15.84039452994495 
+** Parameter=min_weight_fraction_leaf Value=0.15034435662956025 
+** Parameter=min_samples_split Value=155 
+** Parameter=min_samples_leaf Value=11 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 90 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=33.493422317786994 
+** Parameter=min_weight_fraction_leaf Value=0.12910604359713296 
+** Parameter=min_samples_split Value=8 
+** Parameter=min_samples_leaf Value=71 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 91 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=21.14533494660965 
+** Parameter=min_weight_fraction_leaf Value=0.4584056567409592 
+** Parameter=min_samples_split Value=25 
+** Parameter=min_samples_leaf Value=8 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 92 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=43.97585631227969 
+** Parameter=min_weight_fraction_leaf Value=0.28274217045363387 
+** Parameter=min_samples_split Value=33 
+** Parameter=min_samples_leaf Value=170 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 93 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=46.70770065404747 
+** Parameter=min_weight_fraction_leaf Value=0.14149294630216486 
+** Parameter=min_samples_split Value=151 
+** Parameter=min_samples_leaf Value=54 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 94 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=49.85658549216984 
+** Parameter=min_weight_fraction_leaf Value=0.324338075400194 
+** Parameter=min_samples_split Value=115 
+** Parameter=min_samples_leaf Value=39 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 95 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=29.762147331916076 
+** Parameter=min_weight_fraction_leaf Value=0.370585909592903 
+** Parameter=min_samples_split Value=153 
+** Parameter=min_samples_leaf Value=129 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 96 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=48.75002766832492 
+** Parameter=min_weight_fraction_leaf Value=0.08224541610646285 
+** Parameter=min_samples_split Value=139 
+** Parameter=min_samples_leaf Value=116 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 97 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=25.224479776533236 
+** Parameter=min_weight_fraction_leaf Value=0.16784418838213228 
+** Parameter=min_samples_split Value=20 
+** Parameter=min_samples_leaf Value=187 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 98 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=12.313368457588847 
+** Parameter=min_weight_fraction_leaf Value=0.01402956756842022 
+** Parameter=min_samples_split Value=193 
+** Parameter=min_samples_leaf Value=195 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 99 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=100.2335621184908 
+** Parameter=tol Value=12.41025837354829 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 100 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6526315789473685 ** Parameter=alpha Value=28.61405900060223 
+** Parameter=tol Value=75.32278462352149 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=sag 
+** Particle 101 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.09523809523809525 ** Parameter=alpha Value=99.03214708412969 
+** Parameter=tol Value=91.43416606562471 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=lsqr 
+** Particle 102 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=47.25761513809918 
+** Parameter=tol Value=54.05318687527683 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=sparse_cg 
+** Particle 103 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=77.09460625237293 
+** Parameter=tol Value=63.65918096358783 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=auto 
+** Particle 104 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.5370370370370371 ** Parameter=alpha Value=63.73600835879627 
+** Parameter=tol Value=91.898281583253 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=sag 
+** Particle 105 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.048780487804878044 ** Parameter=alpha Value=97.66922066919513 
+** Parameter=tol Value=62.13777005807831 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 106 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6896551724137931 ** Parameter=alpha Value=98.65682314658534 
+** Parameter=tol Value=42.89543415246156 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=lsqr 
+** Particle 107 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=0.495530769089419 
+** Parameter=tol Value=84.72983531361409 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=cholesky 
+** Particle 108 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=71.6195200036269 
+** Parameter=tol Value=70.32660023318705 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 109 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6526315789473685 ** Parameter=alpha Value=9.66195006731883 
+** Parameter=tol Value=50.558998358082356 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=sparse_cg 
+** Particle 110 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=48.432559963820395 
+** Parameter=tol Value=13.853668394167041 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 111 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6526315789473685 ** Parameter=alpha Value=19.766836157402228 
+** Parameter=tol Value=83.1410268803247 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=sag 
+** Particle 112 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.46979865771812085 ** Parameter=alpha Value=34.811078048748435 
+** Parameter=tol Value=66.22344673403451 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 113 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=69.2964778378718 
+** Parameter=tol Value=17.718616756781397 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=svd 
+** Particle 114 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.5370370370370371 ** Parameter=alpha Value=52.40775290118201 
+** Parameter=tol Value=24.889458318797562 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=sag 
+** Particle 115 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.574712643678161 ** Parameter=alpha Value=79.06323533377652 
+** Parameter=tol Value=9.192882481904515 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=cholesky 
+** Particle 116 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6896551724137931 ** Parameter=alpha Value=37.61596156588898 
+** Parameter=tol Value=67.52021520402492 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=auto 
+** Particle 117 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.5420560747663552 ** Parameter=alpha Value=19.485466339296405 
+** Parameter=tol Value=54.67778651521887 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=sag 
+** Particle 118 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.4266666666666667 ** Parameter=alpha Value=7.071214824797586 
+** Parameter=tol Value=18.90732532152664 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=cholesky 
+** Particle 119 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.5471698113207547 ** Parameter=C Value=10.84757194146816 
+** Parameter=tol Value=31.452178331175514 
+** Parameter=max_iter Value=814 
+** Parameter=fit_intercept Value=True 
+** Particle 120 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.37499999999999994 ** Parameter=C Value=19.42747484951741 
+** Parameter=tol Value=63.54766122567967 
+** Parameter=max_iter Value=1909 
+** Parameter=fit_intercept Value=False 
+** Particle 121 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4042553191489362 ** Parameter=C Value=89.18363537211802 
+** Parameter=tol Value=75.0805880467175 
+** Parameter=max_iter Value=28 
+** Parameter=fit_intercept Value=True 
+** Particle 122 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.27999999999999997 ** Parameter=C Value=77.36580788817442 
+** Parameter=tol Value=67.22569985895035 
+** Parameter=max_iter Value=140 
+** Parameter=fit_intercept Value=True 
+** Particle 123 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.0 ** Parameter=C Value=10.832812736403042 
+** Parameter=tol Value=88.4288870841612 
+** Parameter=max_iter Value=1126 
+** Parameter=fit_intercept Value=False 
+** Particle 124 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.0 ** Parameter=C Value=61.563678121697194 
+** Parameter=tol Value=8.017536304622187 
+** Parameter=max_iter Value=112 
+** Parameter=fit_intercept Value=False 
+** Particle 125 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.45098039215686275 ** Parameter=C Value=31.493240598445137 
+** Parameter=tol Value=70.54267070685121 
+** Parameter=max_iter Value=1867 
+** Parameter=fit_intercept Value=True 
+** Particle 126 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.048780487804878044 ** Parameter=C Value=64.37444804301724 
+** Parameter=tol Value=3.3869292678776883 
+** Parameter=max_iter Value=530 
+** Parameter=fit_intercept Value=True 
+** Particle 127 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=80.56164525796748 
+** Parameter=tol Value=29.61133210894095 
+** Parameter=max_iter Value=1245 
+** Parameter=fit_intercept Value=False 
+** Particle 128 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.42222222222222217 ** Parameter=C Value=90.89417029691101 
+** Parameter=tol Value=30.550078690867192 
+** Parameter=max_iter Value=122 
+** Parameter=fit_intercept Value=False 
+** Particle 129 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.0 ** Parameter=C Value=27.442380966173047 
+** Parameter=tol Value=73.29219390002598 
+** Parameter=max_iter Value=143 
+** Parameter=fit_intercept Value=True 
+** Particle 130 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.0 ** Parameter=C Value=7.64377651452645 
+** Parameter=tol Value=22.11948915926533 
+** Parameter=max_iter Value=1352 
+** Parameter=fit_intercept Value=True 
+** Particle 131 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.2127659574468085 ** Parameter=C Value=76.01365456454293 
+** Parameter=tol Value=58.68838693133967 
+** Parameter=max_iter Value=201 
+** Parameter=fit_intercept Value=True 
+** Particle 132 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4693877551020408 ** Parameter=C Value=56.43255288112792 
+** Parameter=tol Value=7.183762278087231 
+** Parameter=max_iter Value=1156 
+** Parameter=fit_intercept Value=True 
+** Particle 133 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=36.03633771961945 
+** Parameter=tol Value=67.40707610438318 
+** Parameter=max_iter Value=40 
+** Parameter=fit_intercept Value=True 
+** Particle 134 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.40211640211640215 ** Parameter=C Value=67.81226954073675 
+** Parameter=tol Value=62.917118295615516 
+** Parameter=max_iter Value=585 
+** Parameter=fit_intercept Value=False 
+** Particle 135 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.0 ** Parameter=C Value=6.4914829898196995 
+** Parameter=tol Value=65.74021562083448 
+** Parameter=max_iter Value=652 
+** Parameter=fit_intercept Value=False 
+** Particle 136 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4042553191489362 ** Parameter=C Value=37.46649997561221 
+** Parameter=tol Value=43.628604515578644 
+** Parameter=max_iter Value=732 
+** Parameter=fit_intercept Value=False 
+** Particle 137 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4311377245508982 ** Parameter=C Value=89.96459822742456 
+** Parameter=tol Value=57.931688970601094 
+** Parameter=max_iter Value=434 
+** Parameter=fit_intercept Value=False 
+** Particle 138 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.45751633986928103 ** Parameter=C Value=33.68511569049393 
+** Parameter=tol Value=35.50228225317138 
+** Parameter=max_iter Value=1455 
+** Parameter=fit_intercept Value=True 
+** Particle 139 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.42222222222222217 ** Parameter=alpha Value=7.079060369586 
+** Parameter=l1_ratio Value=0.2721070523482175 
+** Parameter=epsilon Value=7.43498072527499 
+** Parameter=eta0 Value=5.202065713199996 
+** Parameter=power_t Value=2.2256267603113473 
+** Parameter=max_iter Value=1658 
+** Parameter=loss Value=modified_huber 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=optimal 
+** Particle 140 Algorithm Type SGD CLASSIFIER: personal best metric=0.39215686274509803 ** Parameter=alpha Value=1.7454764822964788 
+** Parameter=l1_ratio Value=0.32605315196396356 
+** Parameter=epsilon Value=10.34129368702658 
+** Parameter=eta0 Value=6.61407162472654 
+** Parameter=power_t Value=2.29930414613174 
+** Parameter=max_iter Value=1636 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=invscaling 
+** Particle 141 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=9.620613828521254 
+** Parameter=l1_ratio Value=0.9155815196391203 
+** Parameter=epsilon Value=1.5393238151710242 
+** Parameter=eta0 Value=5.788365641773404 
+** Parameter=power_t Value=1.5347779172540856 
+** Parameter=max_iter Value=1693 
+** Parameter=loss Value=squared_hinge 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=invscaling 
+** Particle 142 Algorithm Type SGD CLASSIFIER: personal best metric=0.33027522935779813 ** Parameter=alpha Value=0.15755029293482048 
+** Parameter=l1_ratio Value=0.32924689154229936 
+** Parameter=epsilon Value=8.590027273972918 
+** Parameter=eta0 Value=7.779602023385304 
+** Parameter=power_t Value=6.879007282141869 
+** Parameter=max_iter Value=725 
+** Parameter=loss Value=perceptron 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=invscaling 
+** Particle 143 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=5.233834493498263 
+** Parameter=l1_ratio Value=0.48532678529370177 
+** Parameter=epsilon Value=3.8127539041778467 
+** Parameter=eta0 Value=1.3648245292373098 
+** Parameter=power_t Value=2.3171186142611386 
+** Parameter=max_iter Value=243 
+** Parameter=loss Value=perceptron 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=invscaling 
+** Particle 144 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=0.9619392590007241 
+** Parameter=l1_ratio Value=0.9298637347952191 
+** Parameter=epsilon Value=6.296278978894187 
+** Parameter=eta0 Value=3.4230665822987953 
+** Parameter=power_t Value=10.111880642591279 
+** Parameter=max_iter Value=1516 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=constant 
+** Particle 145 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=5.841116248939659 
+** Parameter=l1_ratio Value=0.11887931205477031 
+** Parameter=epsilon Value=3.749154439506061 
+** Parameter=eta0 Value=1.2642763085219475 
+** Parameter=power_t Value=5.228689534134526 
+** Parameter=max_iter Value=615 
+** Parameter=loss Value=modified_huber 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=invscaling 
+** Particle 146 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=4.064539495520722 
+** Parameter=l1_ratio Value=0.2901815298001058 
+** Parameter=epsilon Value=0.8150882502957563 
+** Parameter=eta0 Value=10.487520639806311 
+** Parameter=power_t Value=2.696063052735738 
+** Parameter=max_iter Value=1464 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=constant 
+** Particle 147 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=9.313736306379342 
+** Parameter=l1_ratio Value=0.5942504523083761 
+** Parameter=epsilon Value=1.7290009321499038 
+** Parameter=eta0 Value=7.918626553032147 
+** Parameter=power_t Value=2.622803609062501 
+** Parameter=max_iter Value=1634 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 148 Algorithm Type SGD CLASSIFIER: personal best metric=0.5084745762711864 ** Parameter=alpha Value=8.81883840228333 
+** Parameter=l1_ratio Value=0.19014674227326356 
+** Parameter=epsilon Value=6.609086598445516 
+** Parameter=eta0 Value=5.581950337390993 
+** Parameter=power_t Value=0.911509457389599 
+** Parameter=max_iter Value=301 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=constant 
+** Particle 149 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=3.4953075156008495 
+** Parameter=l1_ratio Value=0.4014697123162295 
+** Parameter=epsilon Value=9.670555667116245 
+** Parameter=eta0 Value=2.711721437686836 
+** Parameter=power_t Value=4.72877500451107 
+** Parameter=max_iter Value=1049 
+** Parameter=loss Value=modified_huber 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=constant 
+** Particle 150 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=6.73162363356418 
+** Parameter=l1_ratio Value=0.3114933993107709 
+** Parameter=epsilon Value=2.9283818347666983 
+** Parameter=eta0 Value=6.898745245303324 
+** Parameter=power_t Value=1.9597372837412772 
+** Parameter=max_iter Value=1078 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=l2 
+** Parameter=learning_rate Value=invscaling 
+** Particle 151 Algorithm Type SGD CLASSIFIER: personal best metric=0.41379310344827586 ** Parameter=alpha Value=5.020861139528432 
+** Parameter=l1_ratio Value=0.9245726327168554 
+** Parameter=epsilon Value=2.7222189151295715 
+** Parameter=eta0 Value=2.337738945364635 
+** Parameter=power_t Value=4.740815998832715 
+** Parameter=max_iter Value=1311 
+** Parameter=loss Value=perceptron 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=constant 
+** Particle 152 Algorithm Type SGD CLASSIFIER: personal best metric=0.44776119402985076 ** Parameter=alpha Value=6.671287949065255 
+** Parameter=l1_ratio Value=0.8649653410763717 
+** Parameter=epsilon Value=7.163789052952796 
+** Parameter=eta0 Value=6.013693706473522 
+** Parameter=power_t Value=6.6373821332066845 
+** Parameter=max_iter Value=664 
+** Parameter=loss Value=squared_hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=invscaling 
+** Particle 153 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=7.828184464311439 
+** Parameter=l1_ratio Value=0.6811865361845797 
+** Parameter=epsilon Value=10.621195075808915 
+** Parameter=eta0 Value=8.917946691456399 
+** Parameter=power_t Value=3.286149560807574 
+** Parameter=max_iter Value=1321 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=elasticnet 
+** Parameter=learning_rate Value=invscaling 
+** Particle 154 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=1.158101111070944 
+** Parameter=l1_ratio Value=0.18399642827853135 
+** Parameter=epsilon Value=5.666485160268542 
+** Parameter=eta0 Value=5.659931105226082 
+** Parameter=power_t Value=5.307264267705311 
+** Parameter=max_iter Value=1075 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=invscaling 
+** Particle 155 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=6.585579009828085 
+** Parameter=l1_ratio Value=0.4281892649889707 
+** Parameter=epsilon Value=7.165851070537704 
+** Parameter=eta0 Value=8.306196802054705 
+** Parameter=power_t Value=0.24028471261264628 
+** Parameter=max_iter Value=827 
+** Parameter=loss Value=perceptron 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 156 Algorithm Type SGD CLASSIFIER: personal best metric=0.4418604651162791 ** Parameter=alpha Value=2.715768487475355 
+** Parameter=l1_ratio Value=0.5537339076805577 
+** Parameter=epsilon Value=4.533205389949224 
+** Parameter=eta0 Value=8.684471221799143 
+** Parameter=power_t Value=6.350515601417579 
+** Parameter=max_iter Value=1318 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=invscaling 
+** Particle 157 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=8.270550358850413 
+** Parameter=l1_ratio Value=0.3686538893911422 
+** Parameter=epsilon Value=7.11558875908471 
+** Parameter=eta0 Value=9.008284751149048 
+** Parameter=power_t Value=5.301638371162037 
+** Parameter=max_iter Value=259 
+** Parameter=loss Value=perceptron 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=optimal 
+** Particle 158 Algorithm Type SGD CLASSIFIER: personal best metric=0.4693877551020408 ** Parameter=alpha Value=8.371038517677496 
+** Parameter=l1_ratio Value=0.31848772176661966 
+** Parameter=epsilon Value=9.503606051684736 
+** Parameter=eta0 Value=7.967093651324821 
+** Parameter=power_t Value=5.679745781538327 
+** Parameter=max_iter Value=1950 
+** Parameter=loss Value=modified_huber 
+** Parameter=penalty Value=l1 
+** Parameter=learning_rate Value=optimal 
+** Particle 159 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=20.620462440008733 
+** Parameter=min_weight_fraction_leaf Value=0.21927213509428684 
+** Parameter=min_samples_split Value=140 
+** Parameter=min_samples_leaf Value=11 
+** Parameter=n_estimators Value=147 
+** Parameter=criterion Value=entropy 
+** Particle 160 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=29.356131846038206 
+** Parameter=min_weight_fraction_leaf Value=0.2993478966849486 
+** Parameter=min_samples_split Value=59 
+** Parameter=min_samples_leaf Value=116 
+** Parameter=n_estimators Value=139 
+** Parameter=criterion Value=entropy 
+** Particle 161 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.807238523018412 
+** Parameter=min_weight_fraction_leaf Value=0.016634547411050915 
+** Parameter=min_samples_split Value=82 
+** Parameter=min_samples_leaf Value=105 
+** Parameter=n_estimators Value=101 
+** Parameter=criterion Value=gini 
+** Particle 162 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=10.173623451994919 
+** Parameter=min_weight_fraction_leaf Value=0.4489175632046105 
+** Parameter=min_samples_split Value=11 
+** Parameter=min_samples_leaf Value=73 
+** Parameter=n_estimators Value=174 
+** Parameter=criterion Value=entropy 
+** Particle 163 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.811043123719064 
+** Parameter=min_weight_fraction_leaf Value=0.4069531851110357 
+** Parameter=min_samples_split Value=83 
+** Parameter=min_samples_leaf Value=39 
+** Parameter=n_estimators Value=186 
+** Parameter=criterion Value=gini 
+** Particle 164 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=14.952049620292177 
+** Parameter=min_weight_fraction_leaf Value=0.3684125301144152 
+** Parameter=min_samples_split Value=27 
+** Parameter=min_samples_leaf Value=59 
+** Parameter=n_estimators Value=236 
+** Parameter=criterion Value=gini 
+** Particle 165 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=29.95285066838792 
+** Parameter=min_weight_fraction_leaf Value=0.11727809302624875 
+** Parameter=min_samples_split Value=43 
+** Parameter=min_samples_leaf Value=29 
+** Parameter=n_estimators Value=167 
+** Parameter=criterion Value=entropy 
+** Particle 166 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=20.66080452856847 
+** Parameter=min_weight_fraction_leaf Value=0.10161013914647654 
+** Parameter=min_samples_split Value=125 
+** Parameter=min_samples_leaf Value=167 
+** Parameter=n_estimators Value=105 
+** Parameter=criterion Value=entropy 
+** Particle 167 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=36.94467679545847 
+** Parameter=min_weight_fraction_leaf Value=0.18149941370429207 
+** Parameter=min_samples_split Value=154 
+** Parameter=min_samples_leaf Value=178 
+** Parameter=n_estimators Value=128 
+** Parameter=criterion Value=entropy 
+** Particle 168 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=50.821811233293396 
+** Parameter=min_weight_fraction_leaf Value=0.0026691415258225937 
+** Parameter=min_samples_split Value=199 
+** Parameter=min_samples_leaf Value=25 
+** Parameter=n_estimators Value=126 
+** Parameter=criterion Value=gini 
+** Particle 169 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=19.09617960758805 
+** Parameter=min_weight_fraction_leaf Value=0.006633632345351914 
+** Parameter=min_samples_split Value=77 
+** Parameter=min_samples_leaf Value=163 
+** Parameter=n_estimators Value=185 
+** Parameter=criterion Value=gini 
+** Particle 170 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=14.620412828729567 
+** Parameter=min_weight_fraction_leaf Value=0.48595730611800353 
+** Parameter=min_samples_split Value=139 
+** Parameter=min_samples_leaf Value=137 
+** Parameter=n_estimators Value=254 
+** Parameter=criterion Value=entropy 
+** Particle 171 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=23.761074787361498 
+** Parameter=min_weight_fraction_leaf Value=0.2472658074629836 
+** Parameter=min_samples_split Value=181 
+** Parameter=min_samples_leaf Value=97 
+** Parameter=n_estimators Value=147 
+** Parameter=criterion Value=entropy 
+** Particle 172 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=20.872954601664294 
+** Parameter=min_weight_fraction_leaf Value=0.05544819350402319 
+** Parameter=min_samples_split Value=129 
+** Parameter=min_samples_leaf Value=159 
+** Parameter=n_estimators Value=46 
+** Parameter=criterion Value=gini 
+** Particle 173 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=41.911936087761205 
+** Parameter=min_weight_fraction_leaf Value=0.38111294125385164 
+** Parameter=min_samples_split Value=29 
+** Parameter=min_samples_leaf Value=185 
+** Parameter=n_estimators Value=117 
+** Parameter=criterion Value=entropy 
+** Particle 174 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=50.30452385315498 
+** Parameter=min_weight_fraction_leaf Value=0.1786397707866757 
+** Parameter=min_samples_split Value=175 
+** Parameter=min_samples_leaf Value=161 
+** Parameter=n_estimators Value=215 
+** Parameter=criterion Value=entropy 
+** Particle 175 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=7.443223475998137 
+** Parameter=min_weight_fraction_leaf Value=0.30061555382100436 
+** Parameter=min_samples_split Value=59 
+** Parameter=min_samples_leaf Value=163 
+** Parameter=n_estimators Value=270 
+** Parameter=criterion Value=gini 
+** Particle 176 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=5.483084913917018 
+** Parameter=min_weight_fraction_leaf Value=0.19193405213044484 
+** Parameter=min_samples_split Value=110 
+** Parameter=min_samples_leaf Value=159 
+** Parameter=n_estimators Value=52 
+** Parameter=criterion Value=entropy 
+** Particle 177 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=24.160653775482913 
+** Parameter=min_weight_fraction_leaf Value=0.15469092411245178 
+** Parameter=min_samples_split Value=68 
+** Parameter=min_samples_leaf Value=56 
+** Parameter=n_estimators Value=139 
+** Parameter=criterion Value=entropy 
+** Particle 178 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=2.1486480579005987 
+** Parameter=min_weight_fraction_leaf Value=0.17861669696817256 
+** Parameter=min_samples_split Value=8 
+** Parameter=min_samples_leaf Value=160 
+** Parameter=n_estimators Value=114 
+** Parameter=criterion Value=entropy 
+** Particle 179 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 *
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=80 
+** Parameter=min_samples_split Value=62 
+** Parameter=n_estimators Value=43 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=44 
+** Parameter=min_samples_split Value=30 
+** Parameter=n_estimators Value=117 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=69 
+** Parameter=min_samples_split Value=63 
+** Parameter=n_estimators Value=106 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=62 
+** Parameter=min_samples_split Value=35 
+** Parameter=n_estimators Value=200 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=67 
+** Parameter=min_samples_split Value=29 
+** Parameter=n_estimators Value=287 
+** Parameter=criterion Value=gini 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=26 
+** Parameter=min_samples_split Value=63 
+** Parameter=n_estimators Value=289 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=44 
+** Parameter=min_samples_split Value=36 
+** Parameter=n_estimators Value=152 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=73 
+** Parameter=min_samples_split Value=83 
+** Parameter=n_estimators Value=190 
+** Parameter=criterion Value=gini 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=29 
+** Parameter=min_samples_split Value=73 
+** Parameter=n_estimators Value=236 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=45 
+** Parameter=min_samples_split Value=36 
+** Parameter=n_estimators Value=71 
+** Parameter=criterion Value=gini 
+*--- END EPOCH 1 ---
+--- START EPOCH 1 ---
+* Parameter=C Value=1.3474371041578932 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.25254909395119196 
+** Parameter=solver Value=liblinear 
+** Particle 0 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.6362557660443853 
+** Parameter=tol Value=0.6719987891067496 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=liblinear 
+** Particle 1 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.4666666666666666 ** Parameter=C Value=2.554282306614291 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.8873886240108881 
+** Parameter=solver Value=liblinear 
+** Particle 2 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.645382264432266 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=liblinear 
+** Particle 3 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.898236374363801 
+** Parameter=tol Value=0.004397598536371117 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=saga 
+** Particle 4 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5321100917431193 ** Parameter=C Value=1.0006307806320582 
+** Parameter=tol Value=0.3390498243965933 
+** Parameter=intercept_scaling Value=0.25491164566341884 
+** Parameter=solver Value=liblinear 
+** Particle 5 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7391304347826088 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=newton-cg 
+** Particle 6 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.6666666666666667 ** Parameter=C Value=1.2510898281719287 
+** Parameter=tol Value=0.35956206686101727 
+** Parameter=intercept_scaling Value=0.7914481032669087 
+** Parameter=solver Value=liblinear 
+** Particle 7 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7083333333333333 ** Parameter=C Value=1.3613061542355698 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.8754565465694665 
+** Parameter=solver Value=saga 
+** Particle 8 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5565217391304348 ** Parameter=C Value=0.7530551713123386 
+** Parameter=tol Value=0.07934021460439827 
+** Parameter=intercept_scaling Value=0.7419932480083158 
+** Parameter=solver Value=lbfgs 
+** Particle 9 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=0.7477055798723857 
+** Parameter=tol Value=0.3269688406049162 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=saga 
+** Particle 10 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5 ** Parameter=C Value=0.5234080462528499 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.46341121125830753 
+** Parameter=solver Value=saga 
+** Particle 11 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5490196078431372 ** Parameter=C Value=0.07438030547044461 
+** Parameter=tol Value=0.7988301961156051 
+** Parameter=intercept_scaling Value=0.9944529325731675 
+** Parameter=solver Value=lbfgs 
+** Particle 12 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.6818181818181819 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.47747535953672693 
+** Parameter=solver Value=liblinear 
+** Particle 13 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=0.6210740945286433 
+** Parameter=tol Value=0.3554310484738741 
+** Parameter=intercept_scaling Value=0.9096929117194427 
+** Parameter=solver Value=liblinear 
+** Particle 14 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.8602147685961397 
+** Parameter=tol Value=1.5971239189607767 
+** Parameter=intercept_scaling Value=0.925026830153874 
+** Parameter=solver Value=liblinear 
+** Particle 15 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.2435113419770312 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=saga 
+** Particle 16 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=0.8623077857703345 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.04453538863743642 
+** Parameter=solver Value=liblinear 
+** Particle 17 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.0259437783268537 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.001 
+** Parameter=solver Value=saga 
+** Particle 18 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5283018867924528 ** Parameter=C Value=0.6476770468454185 
+** Parameter=tol Value=0.8901449336326839 
+** Parameter=intercept_scaling Value=1 
+** Parameter=solver Value=liblinear 
+** Particle 19 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5233644859813084 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 20 Algorithm Type KNN: personal best metric=0.6329113924050632 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=31 
+** Parameter=algorithm Value=auto 
+** Particle 21 Algorithm Type KNN: personal best metric=0.625 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 22 Algorithm Type KNN: personal best metric=0.5974025974025974 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=33 
+** Parameter=algorithm Value=auto 
+** Particle 23 Algorithm Type KNN: personal best metric=0.5569620253164557 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 24 Algorithm Type KNN: personal best metric=0.6097560975609756 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 25 Algorithm Type KNN: personal best metric=0.6075949367088608 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=37 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 26 Algorithm Type KNN: personal best metric=0.6746987951807228 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=5 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=ball_tree 
+** Particle 27 Algorithm Type KNN: personal best metric=0.6506024096385543 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=8 
+** Parameter=algorithm Value=auto 
+** Particle 28 Algorithm Type KNN: personal best metric=0.5897435897435896 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=19 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 29 Algorithm Type KNN: personal best metric=0.6666666666666666 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=31 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 30 Algorithm Type KNN: personal best metric=0.6506024096385543 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=4 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 31 Algorithm Type KNN: personal best metric=0.6590909090909091 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=kd_tree 
+** Particle 32 Algorithm Type KNN: personal best metric=0.6265060240963854 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 33 Algorithm Type KNN: personal best metric=0.6419753086419753 ** Parameter=p Value=3 
+** Parameter=n_neighbors Value=3 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 34 Algorithm Type KNN: personal best metric=0.6097560975609756 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=43 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 35 Algorithm Type KNN: personal best metric=0.6419753086419753 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 36 Algorithm Type KNN: personal best metric=0.5500000000000002 ** Parameter=p Value=4 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 37 Algorithm Type KNN: personal best metric=0.6436781609195403 ** Parameter=p Value=5 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 38 Algorithm Type KNN: personal best metric=0.6265060240963854 ** Parameter=p Value=2 
+** Parameter=n_neighbors Value=2 
+** Parameter=leaf_size Value=2 
+** Parameter=algorithm Value=auto 
+** Particle 39 Algorithm Type KNN: personal best metric=0.6352941176470589 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=62 
+** Parameter=criterion Value=gini 
+** Particle 40 Algorithm Type RANDOM FOREST: personal best metric=0.7391304347826088 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 41 Algorithm Type RANDOM FOREST: personal best metric=0.6875000000000001 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=59 
+** Parameter=criterion Value=gini 
+** Particle 42 Algorithm Type RANDOM FOREST: personal best metric=0.7021276595744681 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=21 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=entropy 
+** Particle 43 Algorithm Type RANDOM FOREST: personal best metric=0.7272727272727272 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=4 
+** Parameter=criterion Value=gini 
+** Particle 44 Algorithm Type RANDOM FOREST: personal best metric=0.7045454545454546 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 45 Algorithm Type RANDOM FOREST: personal best metric=0.6521739130434783 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=11 
+** Parameter=n_estimators Value=201 
+** Parameter=criterion Value=gini 
+** Particle 46 Algorithm Type RANDOM FOREST: personal best metric=0.7228915662650601 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 47 Algorithm Type RANDOM FOREST: personal best metric=0.6451612903225806 ** Parameter=max_depth Value=21 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 48 Algorithm Type RANDOM FOREST: personal best metric=0.6966292134831461 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 49 Algorithm Type RANDOM FOREST: personal best metric=0.6451612903225806 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=25 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 50 Algorithm Type RANDOM FOREST: personal best metric=0.6808510638297872 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=19 
+** Parameter=criterion Value=gini 
+** Particle 51 Algorithm Type RANDOM FOREST: personal best metric=0.7216494845360825 ** Parameter=max_depth Value=39 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 52 Algorithm Type RANDOM FOREST: personal best metric=0.6813186813186812 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=34 
+** Parameter=n_estimators Value=121 
+** Parameter=criterion Value=gini 
+** Particle 53 Algorithm Type RANDOM FOREST: personal best metric=0.7608695652173912 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=42 
+** Parameter=criterion Value=gini 
+** Particle 54 Algorithm Type RANDOM FOREST: personal best metric=0.6595744680851064 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 55 Algorithm Type RANDOM FOREST: personal best metric=0.7191011235955056 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=49 
+** Parameter=criterion Value=gini 
+** Particle 56 Algorithm Type RANDOM FOREST: personal best metric=0.7216494845360825 ** Parameter=max_depth Value=19 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 57 Algorithm Type RANDOM FOREST: personal best metric=0.7333333333333333 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=19 
+** Parameter=criterion Value=gini 
+** Particle 58 Algorithm Type RANDOM FOREST: personal best metric=0.7209302325581395 ** Parameter=max_depth Value=33 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=278 
+** Parameter=criterion Value=gini 
+** Particle 59 Algorithm Type RANDOM FOREST: personal best metric=0.7272727272727272 ** Parameter=min_impurity_decrease Value=7.210113490092674 
+** Parameter=min_weight_fraction_leaf Value=0.5 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 60 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=7 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 61 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=93 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 62 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=25.270680762266007 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=8 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 63 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=68 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 64 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.4011935981036943 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=5 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 65 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.46095232536455466 
+** Parameter=min_samples_split Value=122 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 66 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=8.309318950389054 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=4 
+** Parameter=min_samples_leaf Value=13 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 67 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.18597903575588293 
+** Parameter=min_samples_split Value=8 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 68 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 69 Algorithm Type EXTRA TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=3.335304082354618 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=90 
+** Parameter=min_samples_leaf Value=58 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 70 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=18 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 71 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.8830658639059354 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=119 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 72 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=37 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 73 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=11.488393061562082 
+** Parameter=min_weight_fraction_leaf Value=0.1326411539593051 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 74 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=33 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 75 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=55 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 76 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 77 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=34.2882076558885 
+** Parameter=min_weight_fraction_leaf Value=0.33095765018100376 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=43 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 78 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.18265153366242431 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 79 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.1269095661688237 
+** Parameter=min_samples_split Value=18 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 80 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.4984323803960391 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 81 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=12.144747383849255 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=8 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 82 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=19 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 83 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.5 
+** Parameter=min_samples_split Value=108 
+** Parameter=min_samples_leaf Value=12 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 84 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 85 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=95 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 86 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 87 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=142 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 88 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.43855752765164663 
+** Parameter=min_samples_split Value=14 
+** Parameter=min_samples_leaf Value=124 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=gini 
+** Particle 89 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=34.84395053908892 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 90 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6526315789473685 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 91 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=72.79971339793269 
+** Parameter=normalize Value=False 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=cholesky 
+** Particle 92 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 93 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=24.08386714058514 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 94 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=83.48147323408395 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 95 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=14.94558453447641 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 96 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=36.55905663927202 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 97 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=44.587226730278985 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 98 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=5.817007748551433 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 99 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=35.67471187569184 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 100 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=6.634576083786485 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 101 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=False 
+** Parameter=solver Value=lsqr 
+** Particle 102 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.5555555555555555 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=54.84522493736423 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 103 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=61.2668462293571 
+** Parameter=tol Value=6.001818656725854 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 104 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6526315789473685 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 105 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=19.14018860291617 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 106 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6896551724137931 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 107 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=svd 
+** Particle 108 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.7045454545454546 ** Parameter=alpha Value=3.344663840291257 
+** Parameter=tol Value=0.001 
+** Parameter=normalize Value=True 
+** Parameter=fit_intercept Value=True 
+** Parameter=solver Value=auto 
+** Particle 109 Algorithm Type RIDGE CLASSIFIER: personal best metric=0.6666666666666666 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=544 
+** Parameter=fit_intercept Value=False 
+** Particle 110 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.5172413793103449 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=1299 
+** Parameter=fit_intercept Value=True 
+** Particle 111 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4042553191489362 ** Parameter=C Value=0.001 
+** Parameter=tol Value=66.31686763757413 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 112 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.27999999999999997 ** Parameter=C Value=0.001 
+** Parameter=tol Value=40.27091142518941 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 113 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=0.7270325690186983 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 114 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.17391304347826086 ** Parameter=C Value=33.74553179953834 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 115 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.45098039215686275 ** Parameter=C Value=1.8357273665796612 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=515 
+** Parameter=fit_intercept Value=True 
+** Particle 116 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.048780487804878044 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=False 
+** Particle 117 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=10.523070549652303 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 118 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.42222222222222217 ** Parameter=C Value=0.001 
+** Parameter=tol Value=8.752689852184268 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 119 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 120 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.5 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 121 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 122 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4693877551020408 ** Parameter=C Value=14.267804688053246 
+** Parameter=tol Value=4.8938292011824975 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 123 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.3979057591623037 ** Parameter=C Value=6.003784633284333 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 124 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.40211640211640215 ** Parameter=C Value=0.001 
+** Parameter=tol Value=5.212677735020101 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 125 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4857142857142857 ** Parameter=C Value=0.001 
+** Parameter=tol Value=0.001 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 126 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4042553191489362 ** Parameter=C Value=19.78744325148863 
+** Parameter=tol Value=36.48982336978375 
+** Parameter=max_iter Value=198 
+** Parameter=fit_intercept Value=False 
+** Particle 127 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.4444444444444445 ** Parameter=C Value=0.001 
+** Parameter=tol Value=38.298506299643776 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 128 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.45751633986928103 ** Parameter=C Value=0.001 
+** Parameter=tol Value=16.476180056663548 
+** Parameter=max_iter Value=6 
+** Parameter=fit_intercept Value=True 
+** Particle 129 Algorithm Type PASSIVE AGRESSIVE CLASSIFIER: personal best metric=0.42222222222222217 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=1.3826544340163593 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 130 Algorithm Type SGD CLASSIFIER: personal best metric=0.39215686274509803 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=4.656078361155608 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=optimal 
+** Particle 131 Algorithm Type SGD CLASSIFIER: personal best metric=0.27586206896551724 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.5028036234141379 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=1.9429126300268131 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 132 Algorithm Type SGD CLASSIFIER: personal best metric=0.4285714285714286 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=2.6072931260214185 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=41 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 133 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.5845811969617433 
+** Parameter=epsilon Value=0.010131804478251016 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=1.2681928062887917 
+** Parameter=max_iter Value=175 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 134 Algorithm Type SGD CLASSIFIER: personal best metric=0.0 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=7.314315557017135 
+** Parameter=max_iter Value=1207 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 135 Algorithm Type SGD CLASSIFIER: personal best metric=0.4832214765100671 ** Parameter=alpha Value=0.5290647253843375 
+** Parameter=l1_ratio Value=0.42266433261772374 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.7897455679412279 
+** Parameter=power_t Value=5.085703859845534 
+** Parameter=max_iter Value=174 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 136 Algorithm Type SGD CLASSIFIER: personal best metric=0.5333333333333333 ** Parameter=alpha Value=1.7357943071891362 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.6417417825782009 
+** Parameter=eta0 Value=2.331414288468171 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 137 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.869999955101348 
+** Parameter=eta0 Value=7.065885056876062 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 138 Algorithm Type SGD CLASSIFIER: personal best metric=0.5084745762711864 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.2063223924604058 
+** Parameter=epsilon Value=1.5232454906871835 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.7584911000122743 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=log 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 139 Algorithm Type SGD CLASSIFIER: personal best metric=0.47692307692307695 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=4.298764692628256 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 140 Algorithm Type SGD CLASSIFIER: personal best metric=0.49645390070921985 ** Parameter=alpha Value=0.36797681154175965 
+** Parameter=l1_ratio Value=0.16178192790787282 
+** Parameter=epsilon Value=1.9808657009745443 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=1.4577923089084295 
+** Parameter=max_iter Value=596 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 141 Algorithm Type SGD CLASSIFIER: personal best metric=0.41379310344827586 ** Parameter=alpha Value=1.4038037499498714 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.3394326156625316 
+** Parameter=eta0 Value=1.5749631736762038 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1207 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 142 Algorithm Type SGD CLASSIFIER: personal best metric=0.5174825174825175 ** Parameter=alpha Value=6.54071191236748 
+** Parameter=l1_ratio Value=0.4185417919299991 
+** Parameter=epsilon Value=7.175377440849082 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=3.1585440119510784 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 143 Algorithm Type SGD CLASSIFIER: personal best metric=0.48571428571428565 ** Parameter=alpha Value=5.338521321186334 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=1.3893779315162367 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 144 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=0.11233624354008831 
+** Parameter=l1_ratio Value=0.5057017551315321 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=2.6128957507039567 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 145 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=4.0513779353347115 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.1648257450639545 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 146 Algorithm Type SGD CLASSIFIER: personal best metric=0.5208333333333334 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.3283462505067627 
+** Parameter=epsilon Value=1.2271458630244743 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 147 Algorithm Type SGD CLASSIFIER: personal best metric=0.3958333333333333 ** Parameter=alpha Value=1.946325602223646 
+** Parameter=l1_ratio Value=0.0 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 148 Algorithm Type SGD CLASSIFIER: personal best metric=0.5438596491228069 ** Parameter=alpha Value=0.1 
+** Parameter=l1_ratio Value=0.26096198276114646 
+** Parameter=epsilon Value=0.001 
+** Parameter=eta0 Value=0.0001 
+** Parameter=power_t Value=0.001 
+** Parameter=max_iter Value=1 
+** Parameter=loss Value=hinge 
+** Parameter=penalty Value=none 
+** Parameter=learning_rate Value=constant 
+** Particle 149 Algorithm Type SGD CLASSIFIER: personal best metric=0.3272727272727273 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=90 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=64 
+** Parameter=criterion Value=entropy 
+** Particle 150 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=19.416142032253696 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 151 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.1735806900208597 
+** Parameter=min_samples_split Value=6 
+** Parameter=min_samples_leaf Value=71 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 152 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=18 
+** Parameter=n_estimators Value=129 
+** Parameter=criterion Value=gini 
+** Particle 153 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=73 
+** Parameter=criterion Value=gini 
+** Particle 154 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.5 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=190 
+** Parameter=criterion Value=gini 
+** Particle 155 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=19.87035244032335 
+** Parameter=min_weight_fraction_leaf Value=0.10240052863315052 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=21 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 156 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=68 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 157 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.2809350298394955 
+** Parameter=min_samples_split Value=90 
+** Parameter=min_samples_leaf Value=58 
+** Parameter=n_estimators Value=36 
+** Parameter=criterion Value=gini 
+** Particle 158 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.09476750246902194 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 159 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.223014828361871 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=164 
+** Parameter=criterion Value=gini 
+** Particle 160 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=13.86292984144298 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=126 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 161 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=7.504351480882534 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=81 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 162 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.39393937338295204 
+** Parameter=min_samples_split Value=5 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 163 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=14 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 164 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=entropy 
+** Particle 165 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=4.113894453620007 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=162 
+** Parameter=criterion Value=gini 
+** Particle 166 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=5.357921781488937 
+** Parameter=min_weight_fraction_leaf Value=0.0 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=71 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=entropy 
+** Particle 167 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.2649652262824134 
+** Parameter=min_samples_split Value=2 
+** Parameter=min_samples_leaf Value=17 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 168 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=1.001 
+** Parameter=min_weight_fraction_leaf Value=0.15867072062315246 
+** Parameter=min_samples_split Value=5 
+** Parameter=min_samples_leaf Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 169 Algorithm Type EXTRA TREES CLASSIFIER: personal best metric=0.0 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 170 Algorithm Type RANDOM FOREST: personal best metric=0.6881720430107526 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=62 
+** Parameter=criterion Value=gini 
+** Particle 171 Algorithm Type RANDOM FOREST: personal best metric=0.7209302325581395 ** Parameter=max_depth Value=32 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 172 Algorithm Type RANDOM FOREST: personal best metric=0.7021276595744681 ** Parameter=max_depth Value=22 
+** Parameter=min_samples_split Value=17 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 173 Algorithm Type RANDOM FOREST: personal best metric=0.7333333333333333 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 174 Algorithm Type RANDOM FOREST: personal best metric=0.7333333333333333 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=24 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 175 Algorithm Type RANDOM FOREST: personal best metric=0.6956521739130435 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=18 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 176 Algorithm Type RANDOM FOREST: personal best metric=0.6896551724137931 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=91 
+** Parameter=criterion Value=gini 
+** Particle 177 Algorithm Type RANDOM FOREST: personal best metric=0.6947368421052632 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=35 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 178 Algorithm Type RANDOM FOREST: personal best metric=0.6804123711340205 ** Parameter=max_depth Value=11 
+** Parameter=min_samples_split Value=2 
+** Parameter=n_estimators Value=2 
+** Parameter=criterion Value=gini 
+** Particle 179 Algorithm Type RANDOM FOREST: personal best metric=0.7391304347826088 *
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=41 
+** Parameter=min_samples_split Value=29 
+** Parameter=n_estimators Value=238 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=12 
+** Parameter=min_samples_split Value=33 
+** Parameter=n_estimators Value=122 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=85 
+** Parameter=min_samples_split Value=17 
+** Parameter=n_estimators Value=295 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=39 
+** Parameter=min_samples_split Value=67 
+** Parameter=n_estimators Value=290 
+** Parameter=criterion Value=gini 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=54 
+** Parameter=min_samples_split Value=52 
+** Parameter=n_estimators Value=254 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=60 
+** Parameter=min_samples_split Value=37 
+** Parameter=n_estimators Value=76 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=79 
+** Parameter=min_samples_split Value=70 
+** Parameter=n_estimators Value=46 
+** Parameter=criterion Value=gini 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=38 
+** Parameter=min_samples_split Value=20 
+** Parameter=n_estimators Value=273 
+** Parameter=criterion Value=gini 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=13 
+** Parameter=min_samples_split Value=34 
+** Parameter=n_estimators Value=78 
+** Parameter=criterion Value=entropy 
+*
+* Particle 60 Removed --- Algorithm Type: EXTRA TREE CLASSIFIER With Metric 0.0 *
+* Particle Added -- Algorithm Type RANDOM FOREST ** Parameter=max_depth Value=58 
+** Parameter=min_samples_split Value=20 
+** Parameter=n_estimators Value=96 
+** Parameter=criterion Value=entropy 
+*--- END EPOCH 2 ---
+--- START EPOCH 2 ---
+* Parameter=C Value=0.8484744227392829 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.7821358715119747 
+** Parameter=solver Value=liblinear 
+** Particle 0 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.37251525028764 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.8061599841332927 
+** Parameter=solver Value=liblinear 
+** Particle 1 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7272727272727272 ** Parameter=C Value=0.9833920544108876 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.839770737799375 
+** Parameter=solver Value=liblinear 
+** Particle 2 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7272727272727272 ** Parameter=C Value=1.5099341100700774 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.001 
+** Parameter=solver Value=liblinear 
+** Particle 3 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7191011235955056 ** Parameter=C Value=1.0106529781866573 
+** Parameter=tol Value=0.005250876688076722 
+** Parameter=intercept_scaling Value=0.23980475028054493 
+** Parameter=solver Value=saga 
+** Particle 4 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.5321100917431193 ** Parameter=C Value=1.2921667038525344 
+** Parameter=tol Value=0.32552339047537865 
+** Parameter=intercept_scaling Value=0.9507741676950148 
+** Parameter=solver Value=liblinear 
+** Particle 5 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7391304347826088 ** Parameter=C Value=1.017793276017016 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.7174562978342575 
+** Parameter=solver Value=saga 
+** Particle 6 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.6666666666666667 ** Parameter=C Value=1.3050589178717937 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.45197729970765227 
+** Parameter=solver Value=liblinear 
+** Particle 7 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7272727272727272 ** Parameter=C Value=1.2998485352489324 
+** Parameter=tol Value=0.001 
+** Parameter=intercept_scaling Value=0.6685354264205283 
+** Parameter=solver Value=saga 
+*

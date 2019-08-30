@@ -1,0 +1,32 @@
+--- START EPOCH 0 ---
+* Parameter=min_impurity_decrease Value=33.40578803724514 
+** Parameter=min_weight_fraction_leaf Value=0.14261402133483964 
+** Parameter=min_samples_split Value=174 
+** Parameter=min_samples_leaf Value=28 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 0 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=35.24601107466035 
+** Parameter=min_weight_fraction_leaf Value=0.06021822478865302 
+** Parameter=min_samples_split Value=111 
+** Parameter=min_samples_leaf Value=135 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=gini 
+** Particle 1 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=43.133204449547094 
+** Parameter=min_weight_fraction_leaf Value=0.36423824182484676 
+** Parameter=min_samples_split Value=28 
+** Parameter=min_samples_leaf Value=170 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 2 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=35.49665260276191 
+** Parameter=min_weight_fraction_leaf Value=0.3727038287435499 
+** Parameter=min_samples_split Value=146 
+** Parameter=min_samples_leaf Value=71 
+** Parameter=splitter Value=best 
+** Parameter=criterion Value=entropy 
+** Particle 3 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 ** Parameter=min_impurity_decrease Value=26.647629200998576 
+** Parameter=min_weight_fraction_leaf Value=0.104957949983432 
+** Parameter=min_samples_split Value=77 
+** Parameter=min_samples_leaf Value=30 
+** Parameter=splitter Value=random 
+** Parameter=criterion Value=entropy 
+** Particle 4 Algorithm Type DECISION TREE CLASSIFIER: personal best metric=0.0 *

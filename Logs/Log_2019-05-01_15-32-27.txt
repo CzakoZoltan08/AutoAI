@@ -1,0 +1,123 @@
+--- START EPOCH 0 ---
+* Parameter=C Value=0.14026525879776475 
+** Parameter=tol Value=0.39606751244541427 
+** Parameter=intercept_scaling Value=0.2879918696701265 
+** Parameter=solver Value=lbfgs 
+** Particle 0 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9420935412026726 ** Parameter=C Value=1.0575764495791162 
+** Parameter=tol Value=0.5829230222136603 
+** Parameter=intercept_scaling Value=0.10298633578682877 
+** Parameter=solver Value=newton-cg 
+** Particle 1 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.933184855233853 ** Parameter=C Value=2.681637714334693 
+** Parameter=tol Value=1.047314202176569 
+** Parameter=intercept_scaling Value=0.8840814398041816 
+** Parameter=solver Value=saga 
+** Particle 2 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8819599109131403 ** Parameter=C Value=2.162233356804452 
+** Parameter=tol Value=0.5646225717663692 
+** Parameter=intercept_scaling Value=0.8803383906161192 
+** Parameter=solver Value=liblinear 
+** Particle 3 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.910913140311804 ** Parameter=C Value=2.4273730302588548 
+** Parameter=tol Value=1.546576690166464 
+** Parameter=intercept_scaling Value=0.34652967202984913 
+** Parameter=solver Value=newton-cg 
+** Particle 4 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9265033407572383 ** Parameter=C Value=2.098476021537958 
+** Parameter=tol Value=1.9403241613502509 
+** Parameter=intercept_scaling Value=0.3139738856200493 
+** Parameter=solver Value=liblinear 
+** Particle 5 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8663697104677061 ** Parameter=C Value=1.0788591762389284 
+** Parameter=tol Value=1.4470411886169796 
+** Parameter=intercept_scaling Value=0.34399175075319166 
+** Parameter=solver Value=sag 
+** Particle 6 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.7371937639198218 ** Parameter=C Value=1.7473276778993456 
+** Parameter=tol Value=0.450368517397027 
+** Parameter=intercept_scaling Value=0.5684108474497411 
+** Parameter=solver Value=lbfgs 
+** Particle 7 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9242761692650334 ** Parameter=C Value=1.0379243198380266 
+** Parameter=tol Value=1.2841034440686083 
+** Parameter=intercept_scaling Value=0.48861111786796596 
+** Parameter=solver Value=lbfgs 
+** Particle 8 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9309576837416481 ** Parameter=C Value=0.6737950916548885 
+** Parameter=tol Value=0.6100283554428628 
+** Parameter=intercept_scaling Value=0.04947344994609498 
+** Parameter=solver Value=liblinear 
+** Particle 9 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9064587973273942 ** Parameter=C Value=0.8466363107524154 
+** Parameter=tol Value=1.483475666196743 
+** Parameter=intercept_scaling Value=0.28035285259003295 
+** Parameter=solver Value=liblinear 
+** Particle 10 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8663697104677061 ** Parameter=C Value=1.9702506970661884 
+** Parameter=tol Value=0.5985211835344171 
+** Parameter=intercept_scaling Value=0.1772740704676456 
+** Parameter=solver Value=newton-cg 
+** Particle 11 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9287305122494433 ** Parameter=C Value=2.1438457468301317 
+** Parameter=tol Value=0.7217624887995443 
+** Parameter=intercept_scaling Value=0.9386037297560755 
+** Parameter=solver Value=newton-cg 
+** Particle 12 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9287305122494433 ** Parameter=C Value=1.388557114766388 
+** Parameter=tol Value=1.9476622165935689 
+** Parameter=intercept_scaling Value=0.2438074646655835 
+** Parameter=solver Value=saga 
+** Particle 13 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8641425389755011 ** Parameter=C Value=0.1673231019341372 
+** Parameter=tol Value=1.457300646925391 
+** Parameter=intercept_scaling Value=0.35991132285355587 
+** Parameter=solver Value=sag 
+** Particle 14 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.89086859688196 ** Parameter=C Value=1.588581157320951 
+** Parameter=tol Value=1.2569343937860473 
+** Parameter=intercept_scaling Value=0.33388637435668783 
+** Parameter=solver Value=liblinear 
+** Particle 15 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8507795100222717 ** Parameter=C Value=0.6617084911588131 
+** Parameter=tol Value=0.002444984291238665 
+** Parameter=intercept_scaling Value=0.015452802716885882 
+** Parameter=solver Value=saga 
+** Particle 16 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9420935412026726 ** Parameter=C Value=0.5709670369474685 
+** Parameter=tol Value=1.6453186967354574 
+** Parameter=intercept_scaling Value=0.07585606897914743 
+** Parameter=solver Value=newton-cg 
+** Particle 17 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9309576837416481 ** Parameter=C Value=2.689312441329244 
+** Parameter=tol Value=1.423381787949475 
+** Parameter=intercept_scaling Value=0.20165955586089948 
+** Parameter=solver Value=newton-cg 
+** Particle 18 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9265033407572383 ** Parameter=C Value=2.7656463579572814 
+** Parameter=tol Value=0.6282395956037529 
+** Parameter=intercept_scaling Value=0.48979458681663984 
+** Parameter=solver Value=lbfgs 
+** Particle 19 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9265033407572383 ** Parameter=C Value=2.7269928554115044 
+** Parameter=tol Value=0.21167270971234653 
+** Parameter=intercept_scaling Value=0.29288461875191857 
+** Parameter=solver Value=liblinear 
+** Particle 20 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.933184855233853 ** Parameter=C Value=0.20703284175073952 
+** Parameter=tol Value=1.5045296384774378 
+** Parameter=intercept_scaling Value=0.20993068495483075 
+** Parameter=solver Value=liblinear 
+** Particle 21 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8574610244988864 ** Parameter=C Value=1.8578387338575337 
+** Parameter=tol Value=1.4654864149519724 
+** Parameter=intercept_scaling Value=0.09742706607979737 
+** Parameter=solver Value=sag 
+** Particle 22 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8530066815144766 ** Parameter=C Value=2.7575318813888776 
+** Parameter=tol Value=1.7169002285366488 
+** Parameter=intercept_scaling Value=0.6383162303434052 
+** Parameter=solver Value=sag 
+** Particle 23 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8173719376391982 ** Parameter=C Value=0.5412801914975645 
+** Parameter=tol Value=1.0855091897309983 
+** Parameter=intercept_scaling Value=0.7940512208606493 
+** Parameter=solver Value=newton-cg 
+** Particle 24 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9309576837416481 ** Parameter=C Value=1.228220386873014 
+** Parameter=tol Value=1.7540769576401332 
+** Parameter=intercept_scaling Value=0.6811900849630614 
+** Parameter=solver Value=newton-cg 
+** Particle 25 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9309576837416481 ** Parameter=C Value=0.34239937031276246 
+** Parameter=tol Value=0.9114994350914458 
+** Parameter=intercept_scaling Value=0.5943488265008067 
+** Parameter=solver Value=lbfgs 
+** Particle 26 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9376391982182628 ** Parameter=C Value=0.01401549773836876 
+** Parameter=tol Value=1.7578381738490765 
+** Parameter=intercept_scaling Value=0.6079593381439159 
+** Parameter=solver Value=liblinear 
+** Particle 27 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.8930957683741648 ** Parameter=C Value=2.825239287405382 
+** Parameter=tol Value=1.6802447337878248 
+** Parameter=intercept_scaling Value=0.9404764300335635 
+** Parameter=solver Value=lbfgs 
+** Particle 28 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9265033407572383 ** Parameter=C Value=0.9313925978162495 
+** Parameter=tol Value=0.8868809591931784 
+** Parameter=intercept_scaling Value=0.883052207112578 
+** Parameter=solver Value=liblinear 
+** Particle 29 Algorithm Type LOGISTIC_REGRESSION: personal best metric=0.9153674832962138 ** Parameter=leaf_size Value=5 
+*

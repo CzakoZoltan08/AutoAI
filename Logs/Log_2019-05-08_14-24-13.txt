@@ -1,0 +1,6 @@
+--- START EPOCH 0 ---
+* Parameter=C Value=2.5154250606993487 
+** Parameter=tol Value=0.2374206022853814 
+** Parameter=intercept_scaling Value=0.6144728608086094 
+** Parameter=solver Value=saga 
+*

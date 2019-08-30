@@ -1,0 +1,6 @@
+--- START EPOCH 0 ---
+* Parameter=C Value=0.5629605421166126 
+** Parameter=tol Value=1.7111650129991034 
+** Parameter=intercept_scaling Value=0.5588411740566877 
+** Parameter=solver Value=liblinear 
+*

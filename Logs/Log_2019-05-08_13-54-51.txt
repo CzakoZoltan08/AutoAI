@@ -1,0 +1,6 @@
+--- START EPOCH 0 ---
+* Parameter=C Value=2.1201794922132624 
+** Parameter=tol Value=1.0253446460815812 
+** Parameter=intercept_scaling Value=0.9447576611476454 
+** Parameter=solver Value=newton-cg 
+*
